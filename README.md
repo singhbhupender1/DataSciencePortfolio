@@ -29,15 +29,14 @@
 
 - [San Francisco Crime Study](https://github.com/singhbhupender1/DataSciencePortfolio)
   - [San Francisco Crime Analysis with Apache Spark](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/SF_crime_analysis_using_Spark.ipynb)
-
   - [Spatial and Time series analysis-Forecasting](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Spatial%20and%20Time%20series%20analysis-Forecasting)
   - [spatial and Time series analysis on San Francisco crimes](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/Spatial%20and%20Time%20series%20analysis-Forecasting/Spatial_and_Time_Series_Analysis_SF_Crimes.ipynb)
 
 
 - [NLP](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/NLP)
- - [Sentiment Analysis with RNN](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Sentiment_Analysis_with_RNN.ipynb)
-- [Topic_modeling](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/clustering_Topic_modelin.ipynb)
-- [Product recommender](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Product%20recommender%20logistic%20regression%20LSTM.ipynb)
+  - [Sentiment Analysis with RNN](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Sentiment_Analysis_with_RNN.ipynb)
+  - [Topic_modeling](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/clustering_Topic_modelin.ipynb)
+  - [Product recommender](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Product%20recommender%20logistic%20regression%20LSTM.ipynb)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
