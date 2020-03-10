@@ -1,7 +1,7 @@
 <h1 align="center"> My Data Science Portfolio </h1> <br>
 <p align="center">
   <a href="https://github.com/singhbhupender1/DataSciencePortfolio">
-    <img alt="DataScience" title="DataScience" src="https://cdn-images-1.medium.com/max/1600/1*u16a0WbJeckSdi6kGD3gVA.jpeg" width="600" height="300">
+    <img alt="DataScience" title="DataScience" src="https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1040x520.jpg" width="600" height="300">
   </a>
 </p>
 
@@ -27,8 +27,7 @@
   - [Movie Recommendation Engine Development with ALS in Apache Spark](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Movie-Recommenders/#movie-recommendation-engine-development-with-als-in-apache-spark)
   - [Movie Recommendation Engine Development with Neural Networks in Keras](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Movie-Recommenders/#movie-recommendation-engine-development-with-neural-networks-in-keras)
 
-- [San Francisco Crime Study]
-(https://github.com/singhbhupender1/DataSciencePortfolio)
+- [San Francisco Crime Study](https://github.com/singhbhupender1/DataSciencePortfolio)
   - [San Francisco Crime Analysis with Apache Spark](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/SF_crime_analysis_using_Spark.ipynb)
 
 - [Spatial and Time series analysis-Forecasting](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Spatial%20and%20Time%20series%20analysis-Forecasting)
@@ -36,12 +35,10 @@
 (https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/Spatial%20and%20Time%20series%20analysis-Forecasting/Spatial_and_Time_Series_Analysis_SF_Crimes.ipynb)
 
 
-- [NLP]
-(https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/NLP)
-  - [Sentiment Analysis with RNN]
- (https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Sentiment_Analysis_with_RNN.ipynb)
-  - [Topic_modeling](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/clustering_Topic_modelin.ipynb)
-  - [Product recommender](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Product%20recommender%20logistic%20regression%20LSTM.ipynb)
+- [NLP](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/NLP)
+- [Sentiment Analysis with RNN](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Sentiment_Analysis_with_RNN.ipynb)
+- [Topic_modeling](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/clustering_Topic_modelin.ipynb)
+- [Product recommender](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/NLP/Product%20recommender%20logistic%20regression%20LSTM.ipynb)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -106,7 +103,7 @@ To overcome above challenges, I will use **Matrix Factorization** to learn laten
 ## San Francisco Crime Study
 <p align="center">
   <a href="https://github.com/singhbhupender1/DataSciencePortfolio">
-    <img alt="San Francisco Crime Study" title="San Francisco Crime Study" src="https://support.trulia.com/hc/article_attachments/360001824668/blobid0.png">
+    <img alt="San Francisco Crime Study" title="San Francisco Crime Study" src="https://spark.apache.org/images/spark-stack.png">
   </a>
 </p>
 
