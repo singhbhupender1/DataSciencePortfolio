@@ -135,7 +135,7 @@ With clustering techniques applied to unstructured data, we can start to discove
 ## Time Series Forecasting
 <p align="center">
   <a href="https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/NLP">
-    <img alt="Useful Open Source NLP Libraries" title="Useful Open Source NLP Libraries" src="https://www.quotemaster.org/images/1a/1a4ca83d908bad50f935f9f4b4881e8e.JPG">
+    <img alt="Useful Open Source NLP Libraries" title="Useful Open Source NLP Libraries" src="https://melmagazine.com/wp-content/uploads/2019/07/Stonks_Meme-1280x533.jpg">
   </a>
 </p>
 Time series forecasting is a technique for the prediction of events through a sequence of time. . The techniques predict future events by analyzing the trends of the past, on the assumption that future trends will hold similar to historical trends. We will be implimenting an **ARIMA** model for temperature and crime prediction. 
