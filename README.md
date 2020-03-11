@@ -29,7 +29,8 @@
 
 - [San Francisco Crime Study](https://github.com/singhbhupender1/DataSciencePortfolio)
   - [San Francisco Crime Analysis with Apache Spark](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/SF_crime_analysis_using_Spark.ipynb)
-  - [Spatial and Time series analysis-Forecasting](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Spatial%20and%20Time%20series%20analysis-Forecasting)
+  
+- [Spatial and Time series analysis-Forecasting](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Spatial%20and%20Time%20series%20analysis-Forecasting)
   - [spatial and Time series analysis on San Francisco crimes](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/Spatial%20and%20Time%20series%20analysis-Forecasting/Spatial_and_Time_Series_Analysis_SF_Crimes.ipynb)
 
 
