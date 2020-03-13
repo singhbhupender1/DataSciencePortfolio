@@ -20,7 +20,7 @@
   - [Implementing_Mask_R_CNN_for_Image_Segmentation](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/Computer%20Vision/Implementing_Mask_R_CNN_for_Image_Segmentation.ipynb)
   - [Object_Detection_With_YOLOv3_in_Keras](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/Computer%20Vision/Object_Detection_With_YOLOv3_in_Keras.ipynb)
   - [Plant diseasse classifier 0n Pytorch](https://github.com/singhbhupender1/plant-disease-detection-Resent-152-model/blob/master/work%20notebook.ipynb)
-  - [Visual Question Answering](https://github.com/singhbhupender1/DataSciencePortfolio/blob/master/Computer%20Vision/Object_Detection_With_YOLOv3_in_Keras.ipynb))
+  - [Visual Question Answering](https://github.com/singhbhupender1/VQA-Project/blob/master/VisualQuestionAnsweringDemo.ipynb)
 
 - [Movie Recommender Systems](#movie-recommender-systems)
   - [Movie Recommendation Engine Development with KNN](https://github.com/singhbhupender1/DataSciencePortfolio/tree/master/Movie-Recommenders/#movie-recommendation-engine-development-with-knn)
@@ -43,7 +43,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/KevinLiao159/MyDataSciencePortfolio)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/singhbhupender1/DataSciencePortfolio)
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
